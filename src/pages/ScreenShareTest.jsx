@@ -220,7 +220,7 @@ export default function ScreenShareTest() {
                 </dl>
                 
                 {/* Important note about local preview */}
-                <p className="stream-note">Local preview only • No recording • No backend streaming</p>
+                
               </div>
             )}
 
