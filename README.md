@@ -37,11 +37,11 @@ Notes: This app currently demonstrates local capture and preview. There is no bu
 
 **Screenshots (placeholders)**
 
-- Local preview: ![Local preview placeholder](screenshots/local-preview.png)
-- Share prompt (browser dialog): ![Share prompt placeholder](screenshots/share-prompt.png)
-- Remote view (if connected to a peer): ![Remote view placeholder](screenshots/remote-view.png)
+-- Local preview: ![Local preview](public/screenshots/Screenshot%202026-02-21%20181817.png)
+-- Share prompt (browser dialog): ![Share prompt](public/screenshots/Screenshot%202026-02-21%20181830.png)
+-- Remote view (if connected to a peer): ![Remote view](public/screenshots/Screenshot%202026-02-21%20181853.png)
+-- Share ended / alternate view: ![Share ended](public/screenshots/Screenshot%202026-02-21%20181914.png)
 
-Place your real screenshots under `public/screenshots/` or `screenshots/` and update the paths above.
 
 **Known limitations & browser quirks**
 
